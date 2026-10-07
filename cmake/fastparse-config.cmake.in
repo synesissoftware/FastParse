@@ -1,0 +1,4 @@
+# FastParse is standalone: public headers do not require another
+# package, so this config does not call find_dependency().
+@PACKAGE_INIT@
+include("${CMAKE_CURRENT_LIST_DIR}/@EXPORT_NAME@-targets.cmake")

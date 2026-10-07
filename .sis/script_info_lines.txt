@@ -1,0 +1,2 @@
+FastParse is a small, standalone library of efficient parsing utilities
+Copyright (c) 2026, Matthew Wilson and Synesis Information Systems
